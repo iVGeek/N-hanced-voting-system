@@ -3,11 +3,15 @@
 This project is a simple election voting system implemented in Python. The system allows users to add candidates, cast votes, and display election results. It includes features such as input validation, persistent storage of votes, and voter authentication to prevent multiple votes by the same user.
 
 ## Project Structure
-N-hanced-voting-system/
+
+
+`N-hanced-voting-system/
 ├── __main__.py
 ├── candidate.py
 ├── election.py
-└── run_election.py
+└── run_election.py`
+
+
 
 `candidate.py`: Contains the Candidate class which represents each candidate.
 `election.py`: Contains the Election class which manages the candidates, voting process, persistent storage, and input validation.
