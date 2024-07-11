@@ -43,6 +43,7 @@ N-hanced-voting-system/
 
 ## Example
 1. Adding Candidates
+   
 ` Enter the number of candidates:
 3
 Enter candidate name:
@@ -52,7 +53,7 @@ Bob
 Enter candidate name:
 Charlie`
 
-2. Casting Votes
+3. Casting Votes
 `Enter your voter ID (or type 'exit' to finish):
 voter1
 Enter your vote:
@@ -67,7 +68,7 @@ You have already voted.
 Enter your voter ID (or type 'exit' to finish):
 exit`
 
-3. Displaying Results
+4. Displaying Results
 `Election Results:
 Alice: 1 votes
 Bob: 1 votes
